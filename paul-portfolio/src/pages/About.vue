@@ -115,12 +115,12 @@
           {
             img: require('../../static/rock-paper-scissors-project.jpg'),
             text: 'Rock Paper Scissors',
-            href: '../../../rock scissors paper/index.html'
+            href: '/rock-paper-scissors'
           },
           {
             img: require('../../static/clock-project.jpg'),
             text: 'Clock',
-            href: '/Clock'
+            href: '/clock'
           }
         ],
       };
