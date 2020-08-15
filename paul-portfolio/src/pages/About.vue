@@ -120,7 +120,7 @@
           {
             img: require('../../static/clock-project.jpg'),
             text: 'Clock',
-            href: '../../../clock/index.html'
+            href: '/Clock'
           }
         ],
       };
@@ -269,6 +269,11 @@
       font-size: 30px;
       bottom: 0;
   }
+
+  .slide-text a {
+    color: white
+  }
+  
 
   .content {
     width: 80vw;
