@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\clock"
+		},
+		{
+			"path": "..\\tic tac toe"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rock scissors paper"
+	}
+}
